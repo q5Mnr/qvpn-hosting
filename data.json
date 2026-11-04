@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "tunnel": "ta41b7710037870",
+  "sessionKey": "56ee1ad66dc88ef21b65ed01f964a6a59c4600abb6a94d4d3fec3eb5fe197f36",
+  "lastHost": "desktop-eke7u77.tailcb63f4.ts.net"
+ },
+ "admins": [
+  {
+   "tgId": 6695830312,
+   "name": "Вы"
+  }
+ ],
+ "users": [
+  {
+   "id": "2180a4e2",
+   "uuid": "5cb01a5f-ac75-410f-9fae-50a005000c98",
+   "token": "c0e24a7ae36b26161250e30d",
+   "name": "Владелец",
+   "tgId": null,
+   "tgUsername": null,
+   "status": "active",
+   "createdAt": 1793775298877,
+   "approvedAt": 1793775298877,
+   "expiresAt": null,
+   "limitBytes": 0,
+   "up": 2878,
+   "down": 4017948,
+   "renewRequested": false,
+   "lastRequestAt": null,
+   "warned": false,
+   "live": true,
+   "owner": true
+  },
+  {
+   "id": "5fe86919",
+   "uuid": "e320b123-55d8-40a4-88ed-716889eaad22",
+   "token": "02098914516b867fea3e0572",
+   "name": "Вы",
+   "tgId": 6695830312,
+   "tgUsername": "v0pros_s",
+   "status": "active",
+   "createdAt": 1793778446458,
+   "approvedAt": 1793778554453,
+   "expiresAt": 1801554554453,
+   "limitBytes": 0,
+   "up": 414819,
+   "down": 1059050,
+   "renewRequested": false,
+   "lastRequestAt": 1793778446458,
+   "warned": false,
+   "live": true
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "qvpn",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Приватный VPN (VLESS/Xray) + Telegram-бот + админ-панель для bot-hosting.net",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build:exe": "node scripts/build-exe.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "postject": "^1.0.0-alpha.6"
+  }
+}
