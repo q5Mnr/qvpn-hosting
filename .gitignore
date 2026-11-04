@@ -1,0 +1,6 @@
+config.json
+data.json
+data.json.bak
+qvpn.log
+*.log
+
